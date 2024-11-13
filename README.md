@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
