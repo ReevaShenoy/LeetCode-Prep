@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
