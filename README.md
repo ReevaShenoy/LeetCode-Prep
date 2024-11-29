@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0039-combination-sum) |
 ## Math
 |  |
@@ -50,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0010-regular-expression-matching) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
