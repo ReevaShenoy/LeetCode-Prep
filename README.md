@@ -48,14 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0043-multiply-strings) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
