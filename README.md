@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0066-plus-one) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
