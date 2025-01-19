@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0066-plus-one) |
@@ -62,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0036-valid-sudoku) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
