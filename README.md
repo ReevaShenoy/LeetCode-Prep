@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0053-maximum-subarray) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0036-valid-sudoku) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
