@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0043-multiply-strings) |
 ## Hash Table
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
