@@ -3,6 +3,7 @@ class Solution:
         if needle == "":
             return 0
         
+        '''
         for i in range(len(haystack) + 1 - len(needle)):
             # does ever character of the needle match with a substring in the haystack
             for j in range(len(needle)):
@@ -11,5 +12,10 @@ class Solution:
                     break
                 if j == len(needle)-1:
                     return i
-        
+        ''' # not very efficient
+
+        for i in range(len(haystack) + 1 - len(needle)):
+            if haystack[i : i+len(needle)] == needle:
+                return i
+
         return -1
