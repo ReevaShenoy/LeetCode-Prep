@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0066-plus-one) |
 ## String
 |  |
