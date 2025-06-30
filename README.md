@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
