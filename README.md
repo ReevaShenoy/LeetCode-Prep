@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0168-excel-sheet-column-title) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0043-multiply-strings) |
+| [0168-excel-sheet-column-title](https://github.com/ReevaShenoy/LeetCode-Prep/tree/master/0168-excel-sheet-column-title) |
 ## Hash Table
 |  |
 | ------- |
